@@ -1,6 +1,6 @@
-# [Start Bootstrap - Resume](https://startbootstrap.com/template-overviews/resume/)
 
-[Resume](https://startbootstrap.com/template-overviews/resume/) est un resume de cv [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). Ce thème comporte une barre latérale fixe avec des sections de contenu pour créer un CV simple mais élégant.
+
+ Ce thème comporte une barre latérale fixe avec des sections de contenu pour créer un CV simple mais élégant.
 
 
 
